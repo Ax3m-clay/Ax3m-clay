@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20work-2ea043?style=flat-square" alt="open to work" />
   <img src="https://img.shields.io/badge/location-Moscow%20%7C%20Remote-1f6feb?style=flat-square" alt="location" />
-  <img src="https://img.shields.io/badge/hh.ru%20verified-Docker%20%C2%B7%20API-d63384?style=flat-square" alt="verified skills" />
+  <img src="https://img.shields.io/badge/hh.ru%20verified-Docker%20%C2%B7%20API%20%C2%B7%20Linux%20%C2%B7%20Git-d63384?style=flat-square" alt="verified skills" />
 </p>
 
 ###
